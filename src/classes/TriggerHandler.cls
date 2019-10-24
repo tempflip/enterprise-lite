@@ -4,7 +4,7 @@
  *
  */
 public with sharing class TriggerHandler {
-	Stripe_Settings__c settings = Stripe_Settings__c.getOrgDefaults();
+	//Stripe_Settings__c settings = Stripe_Settings__c.getOrgDefaults();
 	public Schema.sObjectType sObjectType;
 
 	/**
